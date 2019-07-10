@@ -1,7 +1,7 @@
 # Projects Completed in Term 1 Udacity's Data Scientist Nanodegree
 Author: Eremey Valetov  
 Term completion date: 08-Jul-2019  
-Email: valetove@msu.edu  
+Email: valetove@msu.edu
 
 This repository contains the projects I have completed in term 1 of Udacity's Data Scientist Nanogree.
 
